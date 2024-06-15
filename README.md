@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @katle19
 - 👀 I’m interested in being greatest coder
 - 🌱 I’m currently learning javaScript
+- ♟️ I love playing Chess
   
 
 <!---
